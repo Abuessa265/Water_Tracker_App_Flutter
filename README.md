@@ -7,9 +7,11 @@ Live link-
 <br />
 # Screenshots
 1. Mobile View 
-<img width="181" alt="c1" src="https://github.com/Abuessa265/Calculator_App_Flutter/assets/76743694/8ac9173d-bc77-45a2-a7d5-4835062c1fea">
+<img width="198" alt="w1" src="https://github.com/Abuessa265/Water_Tracker_App_Flutter/assets/76743694/acbdb399-a126-4a2b-96cb-0f7d4618c48b">
 
-<img width="173" alt="c2" src="https://github.com/Abuessa265/Calculator_App_Flutter/assets/76743694/f8cedac8-397f-4129-ac0e-2756b4604b97">
+
+<img width="197" alt="w2" src="https://github.com/Abuessa265/Water_Tracker_App_Flutter/assets/76743694/f3de5cf7-eb9b-495b-8ff4-efa4e21b11ec">
+
 
 
 
