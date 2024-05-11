@@ -107,7 +107,11 @@ class _HomeScreenState extends State<HomeScreen> {
                 Icons.water_drop,
                 size: 32,
               ),
-              Text('Tap Here')
+              Text(
+                'Tap Here',
+                style:
+                    TextStyle(color: Colors.green, fontWeight: FontWeight.bold),
+              )
             ],
           ),
         ),
